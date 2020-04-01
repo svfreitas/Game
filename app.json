@@ -1,6 +1,7 @@
 {
     "name": "server",
     "scripts": {
+      "start": "node --experimental-modules server.js ",
     },
     "env": {
     },
